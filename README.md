@@ -15,8 +15,7 @@ The goal of this project is to apply fundamental machine learning techniques to 
 
 - `PRODIGY_ML_03.ipynb`: The main Colab notebook with code and output
 - `README.md`: This file – gives an overview of the project
-- `requirements.txt` *(optional)*: Python dependencies (can be added if needed)
-
+- `requirementss.txt` : Python dependencies 
 ## 🧪 How to Run
 
 1. Open the notebook in Google Colab or Jupyter Notebook.
