@@ -10,7 +10,6 @@ The goal of this project is to apply fundamental machine learning techniques to 
 - Exploratory Data Analysis (EDA)
 - Model training and testing
 - Evaluation metrics
-- Visualizations
 
 ## 📁 Files in This Repo
 
@@ -25,4 +24,3 @@ The goal of this project is to apply fundamental machine learning techniques to 
 3. Install any required packages using:
    ```python
    !pip install -r requirements.txt
-
